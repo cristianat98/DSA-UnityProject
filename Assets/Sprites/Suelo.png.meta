@@ -1,127 +1,127 @@
 fileFormatVersion: 2
-guid: 086e6699f9816f74eb6c8df908eb1a52
+guid: 1297188894ca8934f9e096d2f1e7d980
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6746954961135698032
-    second: Carretera_0
+      213: 1016031141298645601
+    second: Suelo_0
   - first:
-      213: 7011427188411663489
-    second: Carretera_1
+      213: -6278261892725335218
+    second: Suelo_1
   - first:
-      213: -6569355554857994985
-    second: Carretera_2
+      213: 3171043924755923619
+    second: Suelo_2
   - first:
-      213: -4433866371398203791
-    second: Carretera_3
+      213: 7365055783710399926
+    second: Suelo_3
   - first:
-      213: 3216372934423989201
-    second: Carretera_4
+      213: -723759068256587791
+    second: Suelo_4
   - first:
-      213: -3142084024746472610
-    second: Carretera_5
+      213: 1583907295649944290
+    second: Suelo_5
   - first:
-      213: -7868697021174195893
-    second: Carretera_6
+      213: 1512738798813704644
+    second: Suelo_6
   - first:
-      213: -109361325079765738
-    second: Carretera_7
+      213: 2297590241673432527
+    second: Suelo_7
   - first:
-      213: -2746044156119050965
-    second: Carretera_8
+      213: 7392871932738384887
+    second: Suelo_8
   - first:
-      213: 3260165728872808409
-    second: Carretera_9
+      213: 1821372135194382163
+    second: Suelo_9
   - first:
-      213: -4905074331134190043
-    second: Carretera_10
+      213: 1053954026975494532
+    second: Suelo_10
   - first:
-      213: -2381794504269147576
-    second: Carretera_11
+      213: -3762075570760641890
+    second: Suelo_11
   - first:
-      213: -666379099940062478
-    second: Carretera_12
+      213: -2991774543677493572
+    second: Suelo_12
   - first:
-      213: -2350212888674108069
-    second: Carretera_13
+      213: 1423846682498019082
+    second: Suelo_13
   - first:
-      213: -1486135517003650133
-    second: Carretera_14
+      213: -8345441854366074218
+    second: Suelo_14
   - first:
-      213: 357165435482746595
-    second: Carretera_15
+      213: 5237543700745073165
+    second: Suelo_15
   - first:
-      213: -4307689656788217573
-    second: Carretera_16
+      213: 3768720025648001037
+    second: Suelo_16
   - first:
-      213: -7649944443096839947
-    second: Carretera_17
+      213: -9115887656230301813
+    second: Suelo_17
   - first:
-      213: 7569954006461531061
-    second: Carretera_18
+      213: 2189588744282747452
+    second: Suelo_18
   - first:
-      213: -1204041341381076802
-    second: Carretera_19
+      213: 2629234308243470415
+    second: Suelo_19
   - first:
-      213: 7748211755031134830
-    second: Carretera_20
+      213: 4209123766014813250
+    second: Suelo_20
   - first:
-      213: 2710783014833169015
-    second: Carretera_21
+      213: 4350068563043266770
+    second: Suelo_21
   - first:
-      213: 7812258648667822615
-    second: Carretera_22
+      213: -2242777097340766918
+    second: Suelo_22
   - first:
-      213: -4535182726976119446
-    second: Carretera_23
+      213: -3173526192557253662
+    second: Suelo_23
   - first:
-      213: -4993911802964869239
-    second: Carretera_24
+      213: 3364513688458427531
+    second: Suelo_24
   - first:
-      213: -4528758758436390791
-    second: Carretera_25
+      213: -4720404724877681527
+    second: Suelo_25
   - first:
-      213: -6444690034827177916
-    second: Carretera_26
+      213: -7561774472887722004
+    second: Suelo_26
   - first:
-      213: 8895482866209703404
-    second: Carretera_27
+      213: 8872543458013977200
+    second: Suelo_27
   - first:
-      213: -8315492430545964613
-    second: Carretera_28
+      213: -5562865831928764970
+    second: Suelo_28
   - first:
-      213: -4482841702606430948
-    second: Carretera_29
+      213: -3199080978236767863
+    second: Suelo_29
   - first:
-      213: -5743402267454791750
-    second: Carretera_30
+      213: 915083986759265970
+    second: Suelo_30
   - first:
-      213: -4241790073837449796
-    second: Carretera_31
+      213: 2609141509274308773
+    second: Suelo_31
   - first:
-      213: -557144784142647743
-    second: Carretera_32
+      213: -7660183490905631982
+    second: Suelo_32
   - first:
-      213: -5069427411045476792
-    second: Carretera_33
+      213: 7109886439224936870
+    second: Suelo_33
   - first:
-      213: 224252827831471147
-    second: Carretera_34
+      213: -8554623547695606952
+    second: Suelo_34
   - first:
-      213: -934272680938610797
-    second: Carretera_35
+      213: 4222861295978727456
+    second: Suelo_35
   - first:
-      213: 4407253927128597382
-    second: Carretera_36
+      213: 3162678196231604786
+    second: Suelo_36
   - first:
-      213: -1015275841839074489
-    second: Carretera_37
+      213: -3023284413531550984
+    second: Suelo_37
   - first:
-      213: -6358723604595091672
-    second: Carretera_38
+      213: -537094525524459445
+    second: Suelo_38
   - first:
-      213: -5817852734362328827
-    second: Carretera_39
+      213: -5435453883496799884
+    second: Suelo_39
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -219,13 +219,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Carretera_0
+      name: Suelo_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 870
-        width: 301
-        height: 130
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,41 +233,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0708d0e4acff1ad50800000000000000
-      internalID: 6746954961135698032
+      spriteID: 16a27d990faa91e00800000000000000
+      internalID: 1016031141298645601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_1
+      name: Suelo_1
       rect:
         serializedVersion: 2
-        x: 39
-        y: 781
-        width: 262
-        height: 95
-      alignment: 9
-      pivot: {x: 0.4848209, y: 0.47891745}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1840bc531e79d4160800000000000000
-      internalID: 7011427188411663489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_2
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 750
-        width: 100
-        height: 250
+        x: 48
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,20 +254,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7153375cde5f4d4a0800000000000000
-      internalID: -6569355554857994985
+      spriteID: e4b1c3d72122fd8a0800000000000000
+      internalID: -6278261892725335218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_3
+      name: Suelo_2
       rect:
         serializedVersion: 2
-        x: 300
-        y: 750
-        width: 100
-        height: 250
+        x: 96
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,20 +275,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 176824fd60eb772c0800000000000000
-      internalID: -4433866371398203791
+      spriteID: 3a2cc3e06afc10c20800000000000000
+      internalID: 3171043924755923619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_4
+      name: Suelo_3
       rect:
         serializedVersion: 2
-        x: 400
-        y: 750
-        width: 100
-        height: 250
+        x: 144
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,20 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dbc58d842ad2ac20800000000000000
-      internalID: 3216372934423989201
+      spriteID: 6bd9efaa63fe53660800000000000000
+      internalID: 7365055783710399926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_5
+      name: Suelo_4
       rect:
         serializedVersion: 2
-        x: 500
-        y: 750
-        width: 100
-        height: 250
+        x: 192
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,20 +317,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5b8e8a1a331564d0800000000000000
-      internalID: -3142084024746472610
+      spriteID: 1ff299946f0b4f5f0800000000000000
+      internalID: -723759068256587791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_6
+      name: Suelo_5
       rect:
         serializedVersion: 2
-        x: 600
-        y: 750
-        width: 100
-        height: 250
+        x: 240
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,20 +338,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b49dcb7dfb5ccc290800000000000000
-      internalID: -7868697021174195893
+      spriteID: 2e25d522b4b2bf510800000000000000
+      internalID: 1583907295649944290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_7
+      name: Suelo_6
       rect:
         serializedVersion: 2
-        x: 700
-        y: 750
-        width: 100
-        height: 250
+        x: 288
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,20 +359,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d547a44787b7ef0800000000000000
-      internalID: -109361325079765738
+      spriteID: 4c1fd353ce35ef410800000000000000
+      internalID: 1512738798813704644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_8
+      name: Suelo_7
       rect:
         serializedVersion: 2
-        x: 800
-        y: 750
-        width: 100
-        height: 250
+        x: 336
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,20 +380,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b259cf0a36714e9d0800000000000000
-      internalID: -2746044156119050965
+      spriteID: fcd4952d62ea2ef10800000000000000
+      internalID: 2297590241673432527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_9
+      name: Suelo_8
       rect:
         serializedVersion: 2
-        x: 900
-        y: 750
-        width: 100
-        height: 250
+        x: 384
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,20 +401,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dfbd52157f6e3d20800000000000000
-      internalID: 3260165728872808409
+      spriteID: 7f3b3dc8ad1c89660800000000000000
+      internalID: 7392871932738384887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_10
+      name: Suelo_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 500
-        width: 100
-        height: 250
+        x: 432
+        y: 192
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,209 +422,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52e1cdf42ecadebb0800000000000000
-      internalID: -4905074331134190043
+      spriteID: 35f4e029e40d64910800000000000000
+      internalID: 1821372135194382163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_11
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8425f05848a22fed0800000000000000
-      internalID: -2381794504269147576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_12
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2faf35e3dbb80c6f0800000000000000
-      internalID: -666379099940062478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_13
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5df80864dd526fd0800000000000000
-      internalID: -2350212888674108069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_14
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: babe7e40f9f206be0800000000000000
-      internalID: -1486135517003650133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_15
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ee2ffb3218e4f400800000000000000
-      internalID: 357165435482746595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_16
-      rect:
-        serializedVersion: 2
-        x: 600
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b11938c84130834c0800000000000000
-      internalID: -4307689656788217573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_17
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f84db56f00f5d590800000000000000
-      internalID: -7649944443096839947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_18
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b34f21cf01ed0960800000000000000
-      internalID: 7569954006461531061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_19
-      rect:
-        serializedVersion: 2
-        x: 900
-        y: 500
-        width: 100
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb8981087c26a4fe0800000000000000
-      internalID: -1204041341381076802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Carretera_20
+      name: Suelo_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 250
-        width: 100
-        height: 250
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,20 +443,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6203271a8d278b60800000000000000
-      internalID: 7748211755031134830
+      spriteID: 481877b7a9560ae00800000000000000
+      internalID: 1053954026975494532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_21
+      name: Suelo_11
       rect:
         serializedVersion: 2
-        x: 100
-        y: 250
-        width: 100
-        height: 250
+        x: 48
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,20 +464,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7722b462ac2ae9520800000000000000
-      internalID: 2710783014833169015
+      spriteID: e9213a2633c6acbc0800000000000000
+      internalID: -3762075570760641890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_22
+      name: Suelo_12
       rect:
         serializedVersion: 2
-        x: 200
-        y: 250
-        width: 100
-        height: 250
+        x: 96
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,20 +485,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71a915f89d7ba6c60800000000000000
-      internalID: 7812258648667822615
+      spriteID: cbeeb0457e41b76d0800000000000000
+      internalID: -2991774543677493572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_23
+      name: Suelo_13
       rect:
         serializedVersion: 2
-        x: 300
-        y: 250
-        width: 100
-        height: 250
+        x: 144
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -716,20 +506,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6dd917965bcf01c0800000000000000
-      internalID: -4535182726976119446
+      spriteID: a0fa9ec830582c310800000000000000
+      internalID: 1423846682498019082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_24
+      name: Suelo_14
       rect:
         serializedVersion: 2
-        x: 400
-        y: 250
-        width: 100
-        height: 250
+        x: 192
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,20 +527,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98ff5a09caf02bab0800000000000000
-      internalID: -4993911802964869239
+      spriteID: 69a35d879d80f2c80800000000000000
+      internalID: -8345441854366074218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_25
+      name: Suelo_15
       rect:
         serializedVersion: 2
-        x: 500
-        y: 250
-        width: 100
-        height: 250
+        x: 240
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,20 +548,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 978b5f157ed9621c0800000000000000
-      internalID: -4528758758436390791
+      spriteID: d02be720f3e7fa840800000000000000
+      internalID: 5237543700745073165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_26
+      name: Suelo_16
       rect:
         serializedVersion: 2
-        x: 600
-        y: 250
-        width: 100
-        height: 250
+        x: 288
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -779,20 +569,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44050aa0f8cdf86a0800000000000000
-      internalID: -6444690034827177916
+      spriteID: d0076a255ee2d4430800000000000000
+      internalID: 3768720025648001037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_27
+      name: Suelo_17
       rect:
         serializedVersion: 2
-        x: 700
-        y: 250
-        width: 100
-        height: 250
+        x: 336
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,20 +590,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce5c00a598a137b70800000000000000
-      internalID: 8895482866209703404
+      spriteID: b8f4606897cdd7180800000000000000
+      internalID: -9115887656230301813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_28
+      name: Suelo_18
       rect:
         serializedVersion: 2
-        x: 800
-        y: 250
-        width: 100
-        height: 250
+        x: 384
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -821,20 +611,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb1bbd811bf699c80800000000000000
-      internalID: -8315492430545964613
+      spriteID: c32ba2bac5bf26e10800000000000000
+      internalID: 2189588744282747452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_29
+      name: Suelo_19
       rect:
         serializedVersion: 2
-        x: 900
-        y: 250
-        width: 100
-        height: 250
+        x: 432
+        y: 128
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -842,20 +632,230 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1d16dbf83fb9c1c0800000000000000
-      internalID: -4482841702606430948
+      spriteID: f483f1e4caaec7420800000000000000
+      internalID: 2629234308243470415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_30
+      name: Suelo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a7f8a3cfc96a30800000000000000
+      internalID: 4209123766014813250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0b9c87f4c8e5c30800000000000000
+      internalID: 4350068563043266770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353f9adc1e00e0e0800000000000000
+      internalID: -2242777097340766918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb1a3fedbe55f3d0800000000000000
+      internalID: -3173526192557253662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf08aaf5721be20800000000000000
+      internalID: 3364513688458427531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c179999e0cd7eb0800000000000000
+      internalID: -4720404724877681527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef19ef4e2e2f0790800000000000000
+      internalID: -7561774472887722004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a932d244b912b70800000000000000
+      internalID: 8872543458013977200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56abacffabcc2b0800000000000000
+      internalID: -5562865831928764970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810d7cbcc49a93d0800000000000000
+      internalID: -3199080978236767863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo_30
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -863,20 +863,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abf1f2e41165b40b0800000000000000
-      internalID: -5743402267454791750
+      spriteID: 2be2f62a90803bc00800000000000000
+      internalID: 915083986759265970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_31
+      name: Suelo_31
       rect:
         serializedVersion: 2
-        x: 100
+        x: 48
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,20 +884,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbd042dd6622225c0800000000000000
-      internalID: -4241790073837449796
+      spriteID: 5a0950df068853420800000000000000
+      internalID: 2609141509274308773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_32
+      name: Suelo_32
       rect:
         serializedVersion: 2
-        x: 200
+        x: 96
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -905,20 +905,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14e37bc45cf9448f0800000000000000
-      internalID: -557144784142647743
+      spriteID: 213124e43bf81b590800000000000000
+      internalID: -7660183490905631982
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_33
+      name: Suelo_33
       rect:
         serializedVersion: 2
-        x: 300
+        x: 144
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -926,20 +926,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 846910ee0a6c5a9b0800000000000000
-      internalID: -5069427411045476792
+      spriteID: 6a98e53fb046ba260800000000000000
+      internalID: 7109886439224936870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_34
+      name: Suelo_34
       rect:
         serializedVersion: 2
-        x: 400
+        x: 192
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,20 +947,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2c85ce32c4bc1300800000000000000
-      internalID: 224252827831471147
+      spriteID: 853596c253fd74980800000000000000
+      internalID: -8554623547695606952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_35
+      name: Suelo_35
       rect:
         serializedVersion: 2
-        x: 500
+        x: 240
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -968,20 +968,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39f5d4952fbc803f0800000000000000
-      internalID: -934272680938610797
+      spriteID: 028ce8a99fd9a9a30800000000000000
+      internalID: 4222861295978727456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_36
+      name: Suelo_36
       rect:
         serializedVersion: 2
-        x: 600
+        x: 288
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -989,20 +989,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68302799816b92d30800000000000000
-      internalID: 4407253927128597382
+      spriteID: 23a0249101714eb20800000000000000
+      internalID: 3162678196231604786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_37
+      name: Suelo_37
       rect:
         serializedVersion: 2
-        x: 700
+        x: 336
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1010,20 +1010,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7437522400409e1f0800000000000000
-      internalID: -1015275841839074489
+      spriteID: 8fa0a7c08d22b06d0800000000000000
+      internalID: -3023284413531550984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_38
+      name: Suelo_38
       rect:
         serializedVersion: 2
-        x: 800
+        x: 384
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1031,20 +1031,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 827d733529641c7a0800000000000000
-      internalID: -6358723604595091672
+      spriteID: b40ce4bef5bdb88f0800000000000000
+      internalID: -537094525524459445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carretera_39
+      name: Suelo_39
       rect:
         serializedVersion: 2
-        x: 900
+        x: 432
         y: 0
-        width: 100
-        height: 250
+        width: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1052,8 +1052,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5016ccc23c5d24fa0800000000000000
-      internalID: -5817852734362328827
+      spriteID: 471e721cd736194b0800000000000000
+      internalID: -5435453883496799884
       vertices: []
       indices: 
       edges: []

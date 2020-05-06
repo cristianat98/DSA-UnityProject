@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a00ad1e70deee5f40aec47849b1e39e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - acera: {fileID: 5817393525991469102, guid: b0c9389c0da267042a918fc42dd098bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

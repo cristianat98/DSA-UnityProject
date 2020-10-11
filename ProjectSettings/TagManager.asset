@@ -3,7 +3,28 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Acera
+  - Carretera
+  - Paso Cebra
+  - Enemigo
+  - Coche
+  - Mercadona
+  - PuertaMercadona
+  - Casa
+  - SueloMercadona
+  - GuardiaLlave
+  - Papel
+  - Llave
+  - PropietarioMercadona
+  - Objeto
+  - Alfombra
+  - PuertaAlmacen
+  - Codigo
+  - GuardiaMercadona
+  - Cesta
+  - Borde
+  - ConjuntoPapel
   layers:
   - Default
   - TransparentFX
@@ -13,10 +34,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - BlockingLayer
+  - Enemigo
+  - Player
+  - Carretera
   - 
   - 
   - 

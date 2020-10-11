@@ -5,6 +5,12 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - acera: {fileID: 5817393525991469102, guid: b0c9389c0da267042a918fc42dd098bd, type: 3}
+  - player: {fileID: 1050818061070948436, guid: 37d8fdfa473361c498381bf10d301e4f,
+      type: 3}
+  - enemigov: {instanceID: 0}
+  - enemigoh: {instanceID: 0}
+  - sueloMercadona: {fileID: 140824912520052970, guid: fcf3921e1ea8fe84fb0811654e0d6ccf,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

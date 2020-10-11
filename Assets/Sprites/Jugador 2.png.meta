@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 267cd32b4be6119458637b4d8e622782
+guid: ccc0d660baed39642b01c0fc06a3c7cc
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -1624327364298064962
-    second: Jugador 2_0
+    second: Jugador2_f1
   - first:
       213: -150256735586748490
-    second: Jugador 2_1
+    second: Jugador2_f2
   - first:
       213: 149296359396698765
-    second: Jugador 2_2
+    second: Jugador2_f3
   - first:
       213: -2321943701364409633
-    second: Jugador 2_3
+    second: Jugador2_f4
   - first:
       213: -5538903620259306050
-    second: Jugador 2_4
+    second: Jugador2_l1
   - first:
       213: 3781079794796371696
-    second: Jugador 2_5
+    second: Jugador2_l2
   - first:
       213: -3985307473406144194
-    second: Jugador 2_6
+    second: Jugador2_l3
   - first:
       213: 7358064629428844764
-    second: Jugador 2_7
+    second: Jugador2_l4
   - first:
       213: 8216481352247651846
-    second: Jugador 2_8
+    second: Jugador2_r1
   - first:
       213: 5717935779141936161
-    second: Jugador 2_9
+    second: Jugador2_r2
   - first:
       213: -5621615679221585323
-    second: Jugador 2_10
+    second: Jugador2_r3
   - first:
       213: -1340218769093348808
-    second: Jugador 2_11
+    second: Jugador2_r4
   - first:
       213: 8117006617616396630
-    second: Jugador 2_12
+    second: Jugador2_b1
   - first:
       213: 79498717833946825
-    second: Jugador 2_13
+    second: Jugador2_b2
   - first:
       213: -6005560189171563621
-    second: Jugador 2_14
+    second: Jugador2_b3
   - first:
       213: -1083232561553816145
-    second: Jugador 2_15
+    second: Jugador2_b4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,7 +147,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jugador 2_0
+      name: Jugador2_f1
       rect:
         serializedVersion: 2
         x: 0
@@ -155,7 +155,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_1
+      name: Jugador2_f2
       rect:
         serializedVersion: 2
         x: 32
@@ -176,7 +176,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_2
+      name: Jugador2_f3
       rect:
         serializedVersion: 2
         x: 64
@@ -197,7 +197,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_3
+      name: Jugador2_f4
       rect:
         serializedVersion: 2
         x: 96
@@ -218,7 +218,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_4
+      name: Jugador2_l1
       rect:
         serializedVersion: 2
         x: 0
@@ -239,7 +239,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_5
+      name: Jugador2_l2
       rect:
         serializedVersion: 2
         x: 32
@@ -260,7 +260,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_6
+      name: Jugador2_l3
       rect:
         serializedVersion: 2
         x: 64
@@ -281,7 +281,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_7
+      name: Jugador2_l4
       rect:
         serializedVersion: 2
         x: 96
@@ -302,7 +302,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_8
+      name: Jugador2_r1
       rect:
         serializedVersion: 2
         x: 0
@@ -323,7 +323,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_9
+      name: Jugador2_r2
       rect:
         serializedVersion: 2
         x: 32
@@ -344,7 +344,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_10
+      name: Jugador2_r3
       rect:
         serializedVersion: 2
         x: 64
@@ -365,7 +365,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_11
+      name: Jugador2_r4
       rect:
         serializedVersion: 2
         x: 96
@@ -386,7 +386,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_12
+      name: Jugador2_b1
       rect:
         serializedVersion: 2
         x: 0
@@ -407,7 +407,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_13
+      name: Jugador2_b2
       rect:
         serializedVersion: 2
         x: 32
@@ -428,7 +428,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_14
+      name: Jugador2_b3
       rect:
         serializedVersion: 2
         x: 64
@@ -449,7 +449,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugador 2_15
+      name: Jugador2_b4
       rect:
         serializedVersion: 2
         x: 96
@@ -470,7 +470,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

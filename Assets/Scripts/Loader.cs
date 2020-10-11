@@ -7,6 +7,10 @@ public class Loader : MonoBehaviour
 
     public GameObject gameManager;
 
+    void Start()
+    {
+        Application.targetFrameRate = 60;
+    }
     void Awake()
     {
         if (GameManager.instance == null)

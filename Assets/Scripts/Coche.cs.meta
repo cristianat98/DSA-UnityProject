@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9f1563fd8000ac946b14489371ef43b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goizquierda: {fileID: -8017347642053881074, guid: c4cd23ce9da85f94284ffc7ad04089f7,
+      type: 3}
+  - goderecha: {fileID: 4429999121793425917, guid: c4cd23ce9da85f94284ffc7ad04089f7,
+      type: 3}
+  - goarriba: {fileID: 810929788597663192, guid: c4cd23ce9da85f94284ffc7ad04089f7,
+      type: 3}
+  - goabajo: {fileID: 2748037829641823846, guid: c4cd23ce9da85f94284ffc7ad04089f7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

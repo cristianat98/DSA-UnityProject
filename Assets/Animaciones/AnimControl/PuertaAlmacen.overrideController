@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PuertaAlmacen
+  m_Controller: {fileID: 9100000, guid: c7520f908a053cb479c7fc8bbeec5019, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f51679908ac39934b94d6ce773951135, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 27c856235b621cc43aff6fadc72f41a2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 80b4e827515d257458f61a0aeb79f8e3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 991d0ad164a216d43a360db64093cb69, type: 2}
